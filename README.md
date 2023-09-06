@@ -2,7 +2,7 @@
 This repository contains the coding assignments from INFO-I 211: Information Infrastructure II Course. 
 
 ## Overview
-The curriculumn goes over the following libraries:
+The curriculum goes over the following libraries:
 - SciPy
 - NumPy
 - Pandas
